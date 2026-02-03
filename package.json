@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Jin",
+  "author": "ALUKA",
   "license": "GNU",
   "dependencies": {
     "mineflayer": "^4.12.0"
