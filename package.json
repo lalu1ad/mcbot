@@ -1,7 +1,7 @@
 {
   "name": "minecraft-bot",
   "version": "1.0.0",
-  "description": "Script para controlar un bot de Minecraft",
+  "description": "A Minecraft bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
